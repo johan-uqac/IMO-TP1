@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Apple</string>
+    <string name="press_change_to_change_lang">Press start to use a better language</string>
+    <string name="why_java_when_swift">Why do we use Java when Swift exists ?</string>
+    <string name="change">Change</string>
+    <string name="meme_image">Meme image</string>
+</resources>

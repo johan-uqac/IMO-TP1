@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NitFlex</string>
+    <string name="press_change_to_change_lang">Appuies sur changer pour utiliser un autre language</string>
+    <string name="why_java_when_swift">Pourquoi utiliser Java quand Swift existe ?</string>
+    <string name="change">Changer</string>
+    <string name="meme_image">Image de meme</string>
+</resources>
